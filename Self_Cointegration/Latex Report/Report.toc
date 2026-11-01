@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Exploratory analysis to identify Cointegrated pairs}{5}{section.2}%
+\contentsline {section}{\numberline {3}Cointegration Analysis and Mean Reversion process}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Stock Prices data}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Stationarity check of daily returns}{8}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Stationarity check for BAC stock log-returns time series - I(0) process}{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Stationarity check for PNC stock log-returns time series - I(0) process}{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Stationarity check for S\&P 500 index log-returns time series - I(0) process}{9}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}VAR Model fitting : Matrix form representation}{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Cointegration Analysis}{13}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Engle-Granger Procedure Step 1}{13}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Engle-Granger Procedure Step 2}{15}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}OU Process fitting}{19}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Trading Strategy}{21}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Strategy formulation \& Assumptions}{21}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Optimization of Z value based on Cumulative P\&L }{21}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Strategy P\&L and comparison with Benchmark P\&L}{22}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Backtesting of Trading Strategy}{24}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Machine learning-inspired Backtesting}{24}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Portfolio Risk-Return Analytics}{25}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Rolling Sharpe}{27}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Rolling Beta}{28}{subsection.5.4}%
+\contentsline {section}{\numberline {6}References}{29}{section.6}%
+\contentsline {section}{\numberline {7}Appendix}{30}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Ornstein-Uhlenbeck Process(Quality of Mean-Reversion)}{30}{subsection.7.1}%
